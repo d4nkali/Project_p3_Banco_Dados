@@ -8,11 +8,11 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.alunoonline</groupId>
+	<groupId>br.com.enciclopedia</groupId>
 	<artifactId>api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Aluno Online</name>
-	<description>Api backend do projeto Aluno Online</description>
+	<name>Enciclopedia Monstro</name>
+	<description>Api backend do projeto Enciclopedia Monstro</description>
 	<url/>
 	<licenses>
 		<license/>

@@ -1,4 +1,4 @@
-package br.com.alunoonline.api;
+package br.com.enciclopedia.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
