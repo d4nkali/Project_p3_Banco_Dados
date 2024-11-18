@@ -1,13 +1,13 @@
-package br.com.enciclopedia.api;
+package br.com.monstropedia.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EnciclopediaApplication {
+public class MonstropediaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EnciclopediaApplication.class, args);
+		SpringApplication.run(MonstropediaApplication.class, args);
 	}
 
 }

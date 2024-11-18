@@ -1,7 +1,7 @@
-package br.com.enciclopedia.api.controller;
+package br.com.monstropedia.api.controller;
 
-import br.com.enciclopedia.api.model.Criatura;
-import br.com.enciclopedia.api.service.CriaturaService;
+import br.com.monstropedia.api.model.Criatura;
+import br.com.monstropedia.api.service.CriaturaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -26,4 +26,5 @@ public class CriaturaController {
         service.salvarCriatura(criatura);
         return "redirect:/criaturas";
     }
+
 }

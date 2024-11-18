@@ -8,11 +8,11 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.enciclopedia</groupId>
+	<groupId>br.com.monstropedia</groupId>
 	<artifactId>api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Enciclopedia Monstro</name>
-	<description>Api backend do projeto Enciclopedia Monstro</description>
+	<name>Monstropedia</name>
+	<description>Api backend do projeto Monstropedia</description>
 	<url/>
 	<licenses>
 		<license/>

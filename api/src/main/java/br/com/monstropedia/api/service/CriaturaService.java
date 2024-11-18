@@ -1,7 +1,7 @@
-package br.com.enciclopedia.api.service;
+package br.com.monstropedia.api.service;
 
-import br.com.enciclopedia.api.model.Criatura;
-import br.com.enciclopedia.api.repository.CriaturaRepository;
+import br.com.monstropedia.api.model.Criatura;
+import br.com.monstropedia.api.repository.CriaturaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
