@@ -3,6 +3,8 @@
 *.md eol=crlf
 *.java eol=crlf
 *.sql eol=crlf
+*.cmd text eol=crlf
+/mvnw text eol=lf
 
 # Colocando SQL como linguagem no GitHub
 *.sql linguist-detectable=true
