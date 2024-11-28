@@ -31,7 +31,9 @@ lib/
 .DS_Store
 
 # Ignorar arquivos de texto
-
 *.pdf
 *.doc
 *.docx
+
+# Ignorar dotenv
+.env
