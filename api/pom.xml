@@ -12,7 +12,7 @@
 	<artifactId>api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CriaturasPedia</name>
-	<description>Demo project for Spring Boot</description>
+	<description>API do Projeto CriaturasPedia</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -54,24 +54,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-
-		<dependency>
-            <groupId>io.springfox</groupId>
-            <artifactId>springfox-swagger2</artifactId>
-            <version>3.0.0</version>
-        </dependency>
-        <dependency>
-            <groupId>org.springdoc</groupId>
-            <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
-            <version>2.3.0</version>
-        </dependency>
-
-	<dependency>
-		<groupId>me.paulschwarz</groupId>
-		<artifactId>spring-dotenv</artifactId>
-		<version>4.0.0</version>
-	</dependency>
-
 	</dependencies>
 
 	<build>

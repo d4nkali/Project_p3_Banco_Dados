@@ -1,7 +1,5 @@
 package br.com.criaturaspedia.api.service;
 
-import java.util.List;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -14,11 +12,10 @@ public class HabilidadeService {
 	@Autowired
 	HabilidadeRepository habilidadeRepository;
 
-	public void criarHabilidade (Habilidade habilidade){
+	public void criarHabilidade(Habilidade habilidade) {
+
 		habilidadeRepository.save(habilidade);
+
 	}
 
-	public List<Habilidade> listarTodasHabilidades() {
-        return habilidadeRepository.findAll();
-    }
 }

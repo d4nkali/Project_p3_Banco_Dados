@@ -2,6 +2,7 @@ package br.com.criaturaspedia.api.model;
 
 import java.io.Serializable;
 
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -21,5 +22,8 @@ public class Habilidade implements Serializable{
 	private Long id;
 
 	private String nome;
+
+	@Column(columnDefinition = "TEXT")
+	private String descricao;
 
 }

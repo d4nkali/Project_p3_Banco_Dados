@@ -6,8 +6,6 @@ import org.springframework.stereotype.Repository;
 import br.com.criaturaspedia.api.model.Habilidade;
 
 @Repository
-public interface HabilidadeRepository extends JpaRepository<Habilidade, Long>{
-
-
+public interface HabilidadeRepository extends JpaRepository<Habilidade, Long> {
 
 }
