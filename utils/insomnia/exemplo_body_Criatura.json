@@ -1,0 +1,11 @@
+{
+	"nome": "Exemplo",
+	"descricao": "Exemplo.",
+	"habitat": {
+		"id": 0
+	},
+	"habilidade": {
+		"id": 0
+	},
+	"classe": "ENUM"
+}
