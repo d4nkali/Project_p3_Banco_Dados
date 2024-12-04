@@ -1,0 +1,18 @@
+"id","classe","descricao","nome","habilidade_id","habitat_id"
+1,VOADOR,Uma criatura lendária que cospe fogo e vive em montanhas vulcânicas.,Dragão de Fogo,2,3
+2,FERA,Uma cobra gigante que vive em rios profundos.,Serpente Aquática,2,8
+3,FERA,Uma fera que aparece em noites de lua cheia em florestas escuras.,Lobisomem,5,2
+4,VOADOR,Um dragão que habita regiões polares e controla o gelo.,Dragão do Gelo,8,6
+5,ESPIRITO,Um espírito que se oculta em cavernas nebulosas.,Espectro da Névoa,4,5
+6,HUMANOIDE,Uma criatura meio homem e meio peixe com habilidades aquáticas.,Homem-Peixe,2,8
+7,HUMANOIDE,Um humanoide enorme que habita as montanhas do norte.,Gigante da Montanha,5,3
+8,FERA,Uma criatura predadora que caça em florestas escuras à noite.,Fera Sombria,4,2
+9,VOADOR,Um pássaro mágico que renasce das cinzas e vive em desertos escaldantes.,Fênix,3,4
+10,FERA,Criatura agressiva que defende seu território em áreas pantanosas.,Troll do Pântano,7,7
+11,MORTOVIVO,Um morto-vivo armado que vaga por cavernas nebulosas.,Esqueleto Guerreiro,5,5
+12,FERA,Uma criatura mágica que habita vales onde a chuva é constante.,Cervo Celestial,6,8
+13,FERA,Uma fera lendária que transforma em pedra com seu olhar.,Basilisco,5,2
+14,ESPIRITO,Criatura mágica formada por partículas de areia.,Elemental de Areia,6,4
+15,HUMANOIDE,Um humanoide sombrio que controla mortos-vivos.,Necromante,4,5
+16,FERA,Uma fera com múltiplas cabeças que habita tundras congeladas.,Hidra Congelada,8,6
+17,FERA,Criatura elemental que habita lugares quentes e resiste a altas temperaturas.,Salamandra de Fogo,3,4
