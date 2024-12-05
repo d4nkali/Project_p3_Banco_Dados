@@ -4,6 +4,10 @@ Projeto CriaturasPedia para Avaliação da cadeira de Banco de Dados 2 - p3.
 
 Todos os Scripts em `SQL` usados para criação do banco, criação das views e consultas estão em [aqui](./utils/sql/).
 
+Alunos:
+- Danilo Pereira- @d4nkali
+- João Vitor Pereira - @JANzxz
+
 ## Api CriaturasPedia
 
 Projeto de uma API RESTful feito no ecossistema Spring com o objetivo de gerenciar o cadastro de criaturas, gerenciamento das habilidades, e gerenciamento dos habitates usando a arquitetura MVC (Model-View-Controller) oferecendo a separação clara entre interface, lógica de negócios e acesso a dados.
