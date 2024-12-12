@@ -25,6 +25,7 @@ bin/
 
 ### VS Code ###
 .vscode/
+!.vscode/extensions.json
 lib/
 
 ### Mac OS ###
