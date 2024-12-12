@@ -9,3 +9,6 @@
 # Colocando SQL como linguagem no GitHub
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
+
+# Colocando trigger como linguagem PLpgsql no Github
+utils/sql/Trigger_Criaturas.sql linguist-language=plpgsql
